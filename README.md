@@ -3,15 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avikpl1911" alt="avikpl1911" /></a> </p>
 
-- 🔭 I’m currently working on **react-native spotify clone**
 
-- 🌱 I’m currently learning **ASSEMBLY**
-
-- 👯 I’m looking to collaborate on **MERN STACK PROJETS**
-
-- 💬 Ask me about **react, react-native, express and mongo**
-
-- 📫 How to reach me **avikpl1911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
