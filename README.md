@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avik Paul</h1>
-<h3 align="center">I'm a full stack developer from INDIA</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avikpl1911" alt="avikpl1911" /></a> </p>
 
